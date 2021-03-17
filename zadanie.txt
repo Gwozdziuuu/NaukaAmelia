@@ -1,0 +1,1 @@
+Uzupełnić kod w taki sposób, żeby wynik wyświetlany na konsoli odzwierciedlał/przedstawiał doskładnie to co w załączonym obrazku: wynik.png
